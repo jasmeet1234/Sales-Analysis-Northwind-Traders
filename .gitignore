@@ -1,0 +1,10 @@
+# python Virtial Environment
+.venv/
+venv/
+
+#data files
+data/
+
+# local duckdb database file
+northwind.duckdb
+northwind.duckdb.wal
