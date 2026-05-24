@@ -8,3 +8,6 @@ data/
 # local duckdb database file
 northwind.duckdb
 northwind.duckdb.wal
+
+#gitignore
+.gitignore
