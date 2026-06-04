@@ -279,4 +279,8 @@ orderID + productID
 * Max total units ordered: 346
 * Min totla units ordered: 1
 
-
+## Data Observation
+* In employees Table, Andrew Fuller is the Vice President and don't reports to anone thus the value is `NULL`
+* In orders_details table, the unitPrice represnts price per unit of the product without discount
+* In orders_details table, the disocunt is also per unit 
+* 
